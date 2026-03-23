@@ -168,10 +168,10 @@ Do not use this model for real trading decisions.
 
 ## 👤 Author
 
-**Your Name Here**
+**Saood Faisal**
 
-LinkedIn — your linkedin link here
-GitHub — your github link here
+LinkedIn — https://www.linkedin.com/in/saood-faisal-259b40316/
+GitHub — https://github.com/saudcoder7
 
 ---
 
